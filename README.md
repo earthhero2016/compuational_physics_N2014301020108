@@ -1,6 +1,6 @@
 # Homework list
 ###胡塾绪    2014301020108
-* [Exercise-02：Spell my name]()
+* [Exercise-02：Spell my name](https://www.zybuluo.com/Nibor/note/504049)
 * [Exercise-03：All levels]()
 * [Exercise-04：Chapter 1 problem 1.5:The decay of two kinds of particles]()
 * [Exercise-05：Chapter 1 problem 1.6:Population growth]()
