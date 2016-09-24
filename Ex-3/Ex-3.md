@@ -31,6 +31,7 @@ time.sleep()
 [代码在此](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-3/%E6%97%8B%E8%BD%AC.py)
 
 执行效果如下：
+
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-3/%E6%97%8B%E8%BD%AC.gif)
 ##结论
 作者的方法虽然可以使名字水平移动并简单地使图形旋转，但监于作者编程能力十分有限，所用方法比较原始，望见谅！
