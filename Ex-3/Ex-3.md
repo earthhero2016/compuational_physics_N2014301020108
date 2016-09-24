@@ -21,3 +21,20 @@ time.sleep()
 
 执行效果如下：
 
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-3/%E6%B0%B4%E5%B9%B3%E7%A7%BB%E5%8A%A8.gif)
+###2.旋转
+作者意图使一根stick旋转起来，于是先用#拼出了一根stick。如图：
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-3/stick.png)
+
+欲使这根stick旋转起来，方法与平移类似，只不过在一次执行中要想办法使每一行增加的空格不一样。
+[代码在此](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-3/%E6%97%8B%E8%BD%AC.py)
+
+执行效果如下：
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-3/%E6%97%8B%E8%BD%AC.gif)
+##结论
+作者的方法虽然可以使名字水平移动并简单地使图形旋转，但监于作者编程能力十分有限，所用方法比较原始，望见谅！
+##致谢
+感谢Caihao老师的提示以及Tanshan同学的帮助！
+
+
