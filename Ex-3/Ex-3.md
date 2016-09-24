@@ -20,5 +20,4 @@ time.sleep()
 [代码在此](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-3/%E6%B0%B4%E5%B9%B3%E7%A7%BB%E5%8A%A8.py)
 
 执行效果如下：
-![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-3/%E6%B0%B4%E5%B9%B3%E7%A7%BB%E5%8A%A8.gif)
 
