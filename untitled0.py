@@ -21,8 +21,6 @@ class two_types_of_decay:
             self.n_A.append(NA)
             self.n_B.append(NB)
             self.t.append(self.t[i] + self.dt)
-        for self.nsteps in range(100,101):
-          print(self.n_A)
    def show_results(self):
         pl.plot(self.t, self.n_A)
         pl.plot(self.t, self.n_B, 'r') 
