@@ -72,7 +72,7 @@ It should be noted that the statement that the time step is too large does not m
 Finally, we solve this problem by hands.
 The solution of the differential equation is 
 
-![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Exercise-4/E4.png)
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Exercise-4/E5.png)
 
 This proves the assumption and demonstrate that the program does a good job.
 
