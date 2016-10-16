@@ -16,5 +16,8 @@ Output
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-5/figure_3.png)
 
-From this figure, we find that the projecting range of adiabatic model is generally smaller than that of isothermal one. Using method of dichotomy(二分法),we find the maximum range of adiabatic model is about 19232.62m with a profecting angle 36.95 degree and the maximum range of the isothermal model is about 21394.665 with a profecting angle 42.23 degree.
+From this figure, we find that the projecting range of adiabatic model is generally smaller than that of isothermal one. Using method of dichotomy(二分法),we find the maximum range of adiabatic model is about 19232.62m with a projecting angle 36.95 degree and the maximum range of the isothermal model is about 21394.665m with a projecting angle 42.23 degree.
+####Conclusion
+The maximum range of the adiabatic model and corresponding optimal angle is smaller than those of isothermal model
+
 
