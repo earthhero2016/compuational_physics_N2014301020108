@@ -36,3 +36,10 @@ Output
 where 'W' represents winter and 'S' represents summer.
 
 We find that there is an astoudingly tremendous difference between winter and summer. In summer, the maximum range is about 19207.03m at angle 36.85 degree while in winter the maximum range is 49999.98m with an optimal angle of 44.99 degree. The difference of maximum range demonstrates the effect of different temperature in different seasons. Additionally, the optimal degree in winter is closer to 45 degree since the drag coefficient is smaller.
+
+####Exploration
+One can infer from the expression of the drag force that the drag force will be smaller when the velocity is smaller. Let us make a simple trial. Change the initial velocity into 100m/s and see what happens.
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-5/figure_5.png)
+
+The seasonnal difference is largely reduced.
