@@ -24,3 +24,11 @@ The maximum range of the adiabatic model and corresponding optimal angle is smal
 ###Seasonal difference
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-5/QQ%E6%88%AA%E5%9B%BE20161016160728.png)
 
+####Solution
+First, plot the trajectories of the cannon shell with an initial velocity 700m/s and projecting angle 40,45,50 degree respectively for adiabatic model. Choose T=273K as the winter temperature and T=303K as the summer temperature.
+
+[Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-5/untitled2.py)
+
+Output
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-5/figure_4.png)
