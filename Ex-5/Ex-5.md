@@ -32,3 +32,7 @@ First, plot the trajectories of the cannon shell with an initial velocity 700m/s
 Output
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-5/figure_4.png)
+
+where 'W' represents winter and 'S' represents summer.
+
+We find that there is an astoudingly tremendous difference between winter and summer. In summer, the maximum range is about 19207.03m at angle 36.85 degree while in winter the maximum range is 49999.98m with an optimal angle of 44.99 degree. The difference of maximum range demonstrates the effect of different temperature in different seasons. Additionally, the optimal degree in winter is closer to 45 degree since the drag coefficient is smaller.
