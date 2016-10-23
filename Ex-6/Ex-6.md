@@ -12,10 +12,11 @@ Using the similar code of the cannon problem,however, we should stop the calcula
 
 In order to achieve this goal, first, the statement while(y>y0）: is added, where y0 is the height of the target. 
 
-Then, under this condition, we adjust the launching angle step by step to make the hitting point close to the target point. 
+Then, under this condition, we adjust the launching angle step by step to make the hitting point close to the target point. To reduce the operating time, we gradually decrease the scanning step of the launching angle while narrowing the error of the hitting point.
 
-                  | Tables        | Are           | Cool  |
-                  | ------------- |:-------------:| -----:|
-                  | col 3 is      | right-aligned | $1600 |
-                  | col 2 is      | centered      |   $12 |
-                  | zebra stripes | are neat      |    $1 |
+
+                  | scanning step | uncertainty/m   | 
+                  | ------------- |:--------------: | 
+                  |       2       |      200        | 
+                  |      0.5      |       50        |   
+                  |      0.1      |        8        |    
