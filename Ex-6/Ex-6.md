@@ -32,3 +32,7 @@ The optimal angle is 35.4.
 
 There are two allowed angles permitting the hitting poing to fall into (22000-8,22000+8).
 
+Changing the x coodinate of the target.
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-6/initpintu_1.png)
+
