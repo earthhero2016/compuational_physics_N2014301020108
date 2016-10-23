@@ -5,3 +5,16 @@ Generalize the program developed for the previous problem so that it can deal wi
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-6/jjj210.png)
 
+###Solution
+Assume the wind welocity is a constant -10m/s and along the x axis. In addition, the initial velocity of  the shell is 700m/s. When given the position of the target, we seek to find the launching angle with which the shell can hit the target precisely.
+
+Using the similar code of the cannon problem,however, we should stop the calculation at the target point. 
+
+In order to achieve this goal, first, the statement while(y>y0）: is added, where y0 is the height of the target. 
+
+Then, under this condition, 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
