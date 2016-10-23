@@ -12,9 +12,10 @@ Using the similar code of the cannon problem,however, we should stop the calcula
 
 In order to achieve this goal, first, the statement while(y>y0）: is added, where y0 is the height of the target. 
 
-Then, under this condition, 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+Then, under this condition, we adjust the launching angle step by step to make the hitting point close to the target point. 
+
+                  | Tables        | Are           | Cool  |
+                  | ------------- |:-------------:| -----:|
+                  | col 3 is      | right-aligned | $1600 |
+                  | col 2 is      | centered      |   $12 |
+                  | zebra stripes | are neat      |    $1 |
