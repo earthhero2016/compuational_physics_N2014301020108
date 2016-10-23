@@ -12,7 +12,7 @@ Using the similar code of the cannon problem,however, we should stop the calcula
 
 In order to achieve this goal, first, the statement while(y>y0）: is added, where y0 is the height of the target. 
 
-Then, under this condition, we adjust the launching angle step by step to make the hitting point close to the target point. To reduce the operating time, we gradually decrease the scanning step of the launching angle while narrowing the error of the hitting point.
+Then, under this condition, we adjust the launching angle step by step to make the hitting point close to the target point. To reduce the operating time, we gradually decrease the scanning step of the launching angle while narrowing the error of the hitting point. Considering the real situation, we scan the angle from 30 to 60 degree.
 
 
                                  | scanning step | uncertainty/m   | 
@@ -25,4 +25,10 @@ Then, under this condition, we adjust the launching angle step by step to make t
 ####Output
 Changing the x coodinate of the target.
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-6/21000%202500%20(2).png)
+
+The optimal angle is 35.4.
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-6/22000%202500%2B.png)
+
+There are two allowed angles permitting the hitting poing to fall into (22000-8,22000+8).
 
