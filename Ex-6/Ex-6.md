@@ -22,3 +22,7 @@ Then, under this condition, we adjust the launching angle step by step to make t
                                  |      0.1      |        8        |    
                         
 [Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-6/2.10.py)
+####Output
+Changing the x coodinate of the target.
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-6/21000%202500%20(2).png)
+
