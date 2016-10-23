@@ -20,3 +20,5 @@ Then, under this condition, we adjust the launching angle step by step to make t
                                  |       2       |      200        | 
                                  |      0.5      |       50        |   
                                  |      0.1      |        8        |    
+                        
+[Here is the code]{https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-6/2.10.py} 
