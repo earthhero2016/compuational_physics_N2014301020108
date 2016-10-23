@@ -5,7 +5,7 @@
 * [Exercise-03：All levels](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-3/Ex-3.md)
 * [Exercise-04：Chapter 1 problem 1.5:The decay of two kinds of particles](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Exercise-4/Ex-4.md)
 * [Exercise-05：Chapter 1 problem 2.7](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-5/Ex-5.md)
-* [Exercise-06：Chapter 2 problem]()
+* [Exercise-06：Chapter 2 problem 2.10](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-6/Ex-6.md)
 * [Exercise-07：Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball]()
 * [Exercise-08：Chapter 3 problem 3.4:Non-linear oscillator]()
 * [Exercise-09：Chapter 3 problem 3.16:Strange attractor]()
