@@ -46,6 +46,11 @@ The hitting points and launching angles are respectively
 
 (21998.06, 2499.98, 40.2)  (21993.61, 2499.99, 51.8)
 ###Search for the minimum velocity.
+Now, we should find the optimal firing angle with changing initial velocity simaltaneously. Only thing we have to do is scanning the velocity further.Choose (20000,3000)m as the target position and scan the initial velocity from 692m/s to 708m/s.
+[Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-6/2.10.v.py)
+Output
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-6/mv.png)
+
 
 
 
