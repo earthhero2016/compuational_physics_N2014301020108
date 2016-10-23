@@ -49,10 +49,11 @@ The hitting points and launching angles are respectively
 Now, we should find the optimal firing angle with changing initial velocity simaltaneously. Only thing we have to do is scanning the velocity further.Choose (20000,3000)m as the target position and scan the initial velocity from 692m/s to 708m/s.
 [Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-6/2.10.v.py)
 Output
+
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-6/mv.png)
 
-
-
+Within the initial velocity interval (692,708)m/s, there are three trajectories responding to a launching angle that can hit the target with the uncertainty of 8m.
+However, the minimum velocity is 692m/s responding to the firing angle of 35.4.
 
 
 
