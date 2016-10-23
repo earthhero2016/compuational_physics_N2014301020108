@@ -15,8 +15,8 @@ In order to achieve this goal, first, the statement while(y>y0）: is added, whe
 Then, under this condition, we adjust the launching angle step by step to make the hitting point close to the target point. To reduce the operating time, we gradually decrease the scanning step of the launching angle while narrowing the error of the hitting point.
 
 
-                  | scanning step | uncertainty/m   | 
-                  | ------------- |:--------------: | 
-                  |       2       |      200        | 
-                  |      0.5      |       50        |   
-                  |      0.1      |        8        |    
+                                 | scanning step | uncertainty/m   | 
+                                 | ------------- |:--------------: | 
+                                 |       2       |      200        | 
+                                 |      0.5      |       50        |   
+                                 |      0.1      |        8        |    
