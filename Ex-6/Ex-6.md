@@ -5,8 +5,8 @@ Generalize the program developed for the previous problem so that it can deal wi
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-6/jjj210.png)
 
-###Solution
-Assume the wind welocity is a constant -10m/s and along the x axis. In addition, the initial velocity of  the shell is 700m/s. When given the position of the target, we seek to find the launching angle with which the shell can hit the target precisely.
+###Solution with fixed initial velocity
+Assume the wind velocity is a constant -10m/s and along the x axis. In addition, the initial velocity of  the shell is 700m/s. When given the position of the target, we seek to find the launching angle with which the shell can hit the target precisely.
 
 Using the similar code of the cannon problem,however, we should stop the calculation at the target point. 
 
@@ -45,6 +45,7 @@ The hitting points and launching angles are respectively
 (22000.44, 2399.99, 39.6)  (22005.01, 2399.99, 52.1)
 
 (21998.06, 2499.98, 40.2)  (21993.61, 2499.99, 51.8)
+###Search for the minimum velocity.
 
 
 
