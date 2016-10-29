@@ -12,4 +12,12 @@ Output
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/122.png)
 
-From this, we see that the pendulum eventually oscillates with the driven force when F_D=0.5,however, when F_D is 1.2, the behaviour of the pendulum becomes unpredictable, alternatively, is in chaos.
+From this, we see that the pendulum eventually oscillates with the driven force when F_D=0.5,however, when F_D is 1.2, the behaviour of the pendulum becomes unpredictable, namely, is in chaos.
+
+Then, we plot the angular velocity versus time and the angular velocity versus \theta.
+[Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/omega.py)
+Output
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/123.png)
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/121.png)
