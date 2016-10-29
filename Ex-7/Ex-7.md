@@ -43,3 +43,9 @@ It is not unacceptable that the points are so few because the behaviors of the s
 Imagine two identical pendulums only with slightly different initial angles. The difference is 0.001rad. Let us investigate the evolution of the difference of the angles of the two systems.
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/2016-10-29_234945.png)
+
+[Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/3.13.py)
+
+When F_D=0.5
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/3.131.png)
