@@ -74,5 +74,7 @@ When F_D=1.2, the Lyapunov exponent is 0.26.
 By doing these exercises, we find that when the system is in chaos, the system becomes unpredictable, specifically, the physical quantities like tilt angle and angular velocity. Additionaly, the slight difference of identical systems will expand instead of decaying on condition of chaos.
 ###Reference
 1.Giodano, N.J., Nakanishi, H. Computational Physics. Tsinghua University Press, December 2007
+
 2.[ JunyiShangguan. chaos in the nonlinear, damped, driven pendulum(ex3.12/16/21)](https://github.com/JunyiShangguan/computationalphysics_N2013301020076/blob/master/ex9_ch3.12/README.md)
+
 3.[S.Tan. The seventh time homework-Oscillatory Motion and Chaos](http://www.jianshu.com/p/e5960d756664 )
