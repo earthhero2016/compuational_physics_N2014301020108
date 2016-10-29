@@ -60,8 +60,19 @@ The Lyapunov exponent is 0.16.
 When F-D=0.5 or the system is in steay state, the Lyapunov exponent is negative, which means the difference of the angles will decrease. However, when the system is in chaos with F_D=1.2, the Lyapunov exponent is positive, which will cause the expansion of the difference. But,from the figure, we see that the difference of theta is below the exponential curve when time is long so it actually cannot expand in an exponential function. 
 ###Exercise3.14 Changing damping factors.
 In this exercise, we add a slightly difference of damping factors of the two systems based on the last exercise.
+The difference is 0.001.
 Output
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/3.141.png)
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/3.142.png)
+
+When F_D=0.5, there is almost no slope so the Lyapunov exponent is close to 0.
+
+When F_D=1.2, the Lyapunov exponent is 0.26.
+###Conclusion
+By doing these exercises, we find that when the system is in chaos, the system becomes unpredictable, specifically, the physical quantities like tilt angle and angular velocity. Additionaly, the slight difference of identical systems will expand instead of decaying on condition of chaos.
+###Reference
+1.Giodano, N.J., Nakanishi, H. Computational Physics. Tsinghua University Press, December 2007
+2.[ JunyiShangguan. chaos in the nonlinear, damped, driven pendulum(ex3.12/16/21)](https://github.com/JunyiShangguan/computationalphysics_N2013301020076/blob/master/ex9_ch3.12/README.md)
+3.[S.Tan. The seventh time homework-Oscillatory Motion and Chaos](http://www.jianshu.com/p/e5960d756664 )
