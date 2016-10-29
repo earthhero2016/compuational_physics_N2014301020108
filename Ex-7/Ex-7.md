@@ -29,7 +29,7 @@ In the phase-space graph, plot \omega versus \theta only at times that are in ph
 
 [Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/3.12.py)
 
-Output
+When F_D=1.2
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/3.12_%E7%9C%8B%E5%9B%BE%E7%8E%8B.png)
 
@@ -39,3 +39,7 @@ The following figure shows what it is.
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/3.12%20F%3D0.5_.png)
 
 It is not unacceptable that the points are so few because the behaviors of the system,including theta and angular velocity, are regular under F_D=0.5. To construct Poincare section, we select the points with fixed driven force phase. Since theta and omega would oscillate at the frequency of the driven force when the system comes to the steady state, the phases of the theta and omega would also be fixed. Thus, there are only few points on Poincare section.
+###Exercise3.13 Comparison of two identical pendulums with slight difference of initial angles.
+Imagine two identical pendulums only with slightly different initial angles. The difference is 0.001rad. Let us investigate the evolution of the difference of the angles of the two systems.
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/2016-10-29_234945.png)
