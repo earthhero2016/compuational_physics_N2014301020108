@@ -49,3 +49,10 @@ Imagine two identical pendulums only with slightly different initial angles. The
 When F_D=0.5
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/3.131.png)
+The Lyapunov exponent is -0.25.
+
+When F_D=1.2
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/3.132.png)
+
+The Lyapunov exponent is 0.16.
