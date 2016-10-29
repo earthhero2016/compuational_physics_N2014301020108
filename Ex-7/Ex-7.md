@@ -56,3 +56,12 @@ When F_D=1.2
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/3.132.png)
 
 The Lyapunov exponent is 0.16.
+
+When F-D=0.5 or the system is in steay state, the Lyapunov exponent is negative, which means the difference of the angles will decrease. However, when the system is in chaos with F_D=1.2, the Lyapunov exponent is positive, which will cause the expansion of the difference. But,from the figure, we see that the difference of theta is below the exponential curve when time is long so it actually cannot expand in an exponential function. 
+###Exercise3.14 Changing damping factors.
+In this exercise, we add a slightly difference of damping factors of the two systems based on the last exercise.
+Output
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/3.141.png)
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-7/3.142.png)
