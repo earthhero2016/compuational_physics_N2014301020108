@@ -19,7 +19,7 @@ Output
 
 From this picture, we can see that the system with these parameters is not in chaos and actually it seems to be periodic after a few seconds. Additional, the period of theta when F_D=1.44 is twice as when F_D=1.4 and period when F_D=1.465 is four times as when F_D=1.4. Back to the last assignment, we have known that there are only few points in the Poincare section when the system is regular. This time, we remove the initial points corresponding to a non-steady state.
 
-[Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/3.18.py)
+[Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/3.12.py)
 
 Output
 When F_D=1.4
@@ -40,3 +40,5 @@ Now, let us investigate if the point is exactly the same number as we see.
 Expand the area around one point, we will see the following picture.
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/3.18%20e.png)
+
+It not so strange that the points scatters like a line when the theta coodinate is in a very tiny space because there is always  deflections calculating by computer. Maybe is the value of pi not precise enough, maybe dt or anything. But in a relative large scale, it is one point and indistinguishable.
