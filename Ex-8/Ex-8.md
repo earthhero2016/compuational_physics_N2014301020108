@@ -33,3 +33,10 @@ When F_D=1.44
 When F_D=1.465
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/3.18%20FD%3D1.465.png)
+
+Thus, concluded from the figures, when F_D=1.4, there is only one point in the Poincare section. And as the period doubles with the change of F_D, the number of points in the Poincare section will double correspondingly.
+
+Now, let us investigate if the point is exactly the same number as we see.
+Expand the area around one point, we will see the following picture.
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/3.18%20e.png)
