@@ -1,5 +1,7 @@
 #Homework 8 胡塾绪 2014301020108
 ##Abstract
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/20140708131201_7154.gif)
+
 This article mainly discusses chaos in thee driven nonlinear pendulum and involves the solutions of exerciseS 3.18,3.20, which focus on Poincare section and bifurcation diagrams.
 ##Background
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/XXXXX1.png)
@@ -42,3 +44,5 @@ Expand the area around one point, we will see the following picture.
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/3.18%20e.png)
 
 It not so strange that the points scatters like a line when the theta coodinate is in a very tiny space because there is always  deflections calculating by computer. Maybe is the value of pi not precise enough, maybe dt or anything. But in a relative large scale, it is one point and indistinguishable.
+###Exercise 3.20 Bifurcation Diagram
+
