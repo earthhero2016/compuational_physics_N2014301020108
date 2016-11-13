@@ -56,3 +56,7 @@ Output
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/4%20%201.459%201.476.png)
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/1112.png)
+###Reference
+1.Giodano, N.J., Nakanishi, H. Computational Physics. Tsinghua University Press, December 2007
+2.[S.Tan The eighth homework-Routes to Chaos: Period Doubling](http://www.jianshu.com/p/b141af43e303)
+3.[Wu Yuqiao Exercise 9](https://github.com/wuyuqiao/computationalphysics_N2013301020142/blob/master/Chapter3---2/Exercise%209.md)
