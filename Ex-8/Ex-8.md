@@ -56,6 +56,14 @@ Output
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/4%20%201.459%201.476.png)
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/1112.png)
+
+We magnify the plot to find more transition points. 
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/3.212.png)
+
+They are 1.47619, 1.47643, 1.47648, 1.47649.Considering the memory of the computer, these are all values of F_n we can find, n=1,2,3,4,5,6,7. So the number transitions we find is 128.
+
+The corresponding values of Feigenbaum \delta are 
 ##Conclusions
 By doing these exercise, we find that when the system is not in chaos, as the period doubles with the increase of the diving force amplitude, points in Poincare section doubles. This can be shown by doubling transitions in the bifurcation. As the order  of transitions becomes very large, the Feigenbaum \delta approaches to a fixed value.
 ##References
