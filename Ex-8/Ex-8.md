@@ -63,7 +63,7 @@ We magnify the plot to find more transition points.
 
 They are 1.47619, 1.47643, 1.47648, 1.47649.Considering the memory of the computer, these are all values of F_n we can find, n=1,2,3,4,5,6,7. So the number transitions we find is 128.
 
-The corresponding values of Feigenbaum \delta are 
+The corresponding values of Feigenbaum \delta are 2.1739,14.7706,4.5417,4.8,5. They are not so close to the limit value 4.669 since n here is not too large.
 ##Conclusions
 By doing these exercise, we find that when the system is not in chaos, as the period doubles with the increase of the diving force amplitude, points in Poincare section doubles. This can be shown by doubling transitions in the bifurcation. As the order  of transitions becomes very large, the Feigenbaum \delta approaches to a fixed value.
 ##References
