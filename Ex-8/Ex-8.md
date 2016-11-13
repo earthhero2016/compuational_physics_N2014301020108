@@ -53,4 +53,6 @@ Output
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/figure_3.png)
 
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/4%20%201.459%201.476.png)
+
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/1112.png)
