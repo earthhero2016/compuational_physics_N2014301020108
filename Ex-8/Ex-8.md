@@ -48,6 +48,9 @@ It not so strange that the points scatters like a line when the theta coodinate 
 From the former problem, we have seen that as the period doubles the number of the points in Poincare section doubles. So if th e period keeps on doubling, what about the transition to chaos? A nice way to appreciate how this transition comes about is with what is known as a bifurcation diagram. In bifurcation, we show theta as a each value F_D.
 
 [Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/3.201.py)
+
 Output
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/figure_3.png)
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-8/1112.png)
