@@ -57,10 +57,22 @@ When a-0.001,
 
 The Lyapunov exponent is about 0.22.
 
-It is intruguing to investigate the further evolution of the separation. 
+It is intriguing to investigate the further evolution of the separation. 
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/separation%20long%20time.png)
 
 From this, we can see that after a long time, the separation is not an exponent-like function any more. And the maximum of the separation is not larger than unit 1. This is sensible since the two balls are constricted in the unit circle.
+###Exercise 3.31 Other types of tables
+Here we study the behavior for other types of table. One is square table with a circular interior wall located either in the center. Another one is an elliptical table.
+####Interior circular wall
+[Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/inner.py)
+
+Trajectory 
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/inner%20circle.png)
+
+Phase space
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/inner%20circle%20phase.png)
 
 
