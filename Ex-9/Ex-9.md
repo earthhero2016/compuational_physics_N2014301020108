@@ -32,4 +32,16 @@ Output
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/Phase%20space.png)
 
+From these pictures, we see that the behaviors of the billiard are kind of chaotic when the circle boundary is devided.
+##Solution
+###Excercise 3.30 Lyapunov exponent
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/2016-11-17_155302.png)
+
+[The code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/separation.py)
+
+When a=0.1, 
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/Separation%200.065.png)
+
+
 
