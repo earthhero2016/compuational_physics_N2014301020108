@@ -41,7 +41,20 @@ From these pictures, we see that the behaviors of the billiard are kind of chaot
 
 When a=0.1, 
 
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/Separation%200.16.png)
+
+The Lyapunov exponent is about 0.16
+
+When a=0.01
+
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/Separation%200.065.png)
 
+The Lyapunov exponent is about 0.065.
+
+When a-0.001,
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/Separation%200.22.png)
+
+The Lyapunov exponent is about 0.22.
 
 
