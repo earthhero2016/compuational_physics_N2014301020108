@@ -85,5 +85,12 @@ Trajectory
 Phase space
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/E%20phase.png)
+##Conclusion
+In this article, we find a new method to show the chaotic phenomena, that is the billiard problem and investigate the phase space and Lyapunov exponent of the new system.
+##Reference
+1.Giodano, N.J., Nakanishi, H. Computational Physics. Tsinghua University Press, December 2007
 
+2.[Chen Feng, Chapter 3 Problem 3.31 The Billard Problem](https://www.zybuluo.com/355073677/note/360879)
+
+3.[Wu Yuqiao Excercise 10](https://github.com/wuyuqiao/computationalphysics_N2013301020142/blob/master/Chapter3-3/Exercise10.md)
 
