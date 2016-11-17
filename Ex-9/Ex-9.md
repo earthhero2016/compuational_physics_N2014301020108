@@ -18,6 +18,10 @@ The initial conditions are different in the two figures. Now, we plot the Phase-
 
 [Here is the code for the above programs.](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/3.30.py)
 
+Vpython demonstration
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/GIF.gif)
+
 The behavior of the billard gets more interesting when we consider other table shapes. Now cut the table along the x axis, and pull the two semicircular halves apart(along y), a distance 2ar. Choosing a=0.1,0.01,0.001 respectively, we plot the trajectories and phase spaces of the ball.
 
 [Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/3.301.py)
