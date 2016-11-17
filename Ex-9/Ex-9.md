@@ -61,4 +61,6 @@ It is intruguing to investigate the further evolution of the separation.
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/separation%20long%20time.png)
 
+From this, we can see that after a long time, the separation is not an exponent-like function any more. And the maximum of the separation is not larger than unit 1. This is sensible since the two balls are constricted in the unit circle.
+
 
