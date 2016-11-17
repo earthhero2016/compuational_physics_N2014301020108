@@ -15,3 +15,7 @@ The initial conditions are different in the two figures. Now, we plot the Phase-
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/circle2phase.png)
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/circle3phase.png)
+
+[Here is the code for the above programs.](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/3.30.py)
+
+
