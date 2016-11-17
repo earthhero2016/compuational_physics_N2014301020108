@@ -75,4 +75,15 @@ Phase space
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/inner%20circle%20phase.png)
 
+####Elliptical table
+[Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/ellipse.py)
+
+Trajectory
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/figure_1.png)
+
+Phase space
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/E%20phase.png)
+
 
