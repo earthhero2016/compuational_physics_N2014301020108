@@ -57,4 +57,8 @@ When a-0.001,
 
 The Lyapunov exponent is about 0.22.
 
+It is intruguing to investigate the further evolution of the separation. 
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/separation%20long%20time.png)
+
 
