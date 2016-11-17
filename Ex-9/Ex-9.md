@@ -4,6 +4,14 @@ This article mainly discusses the billiard problem, one of the chaotic problem, 
 ##Background
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/2016-11-17_150518.png)
 
-When the boundary is a unit circle, the trajectory of the ball is shown by the following picture.
+When the boundary is a unit circle, the trajectories of the ball are shown by the following pictures.
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/circle2.png)
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/circle3.png)
+
+The initial conditions are different in the two figures. Now, we plot the Phase-spaces of the two balls above, which can be constructed by plotting x-vx figures only when y=0.
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/circle2phase.png)
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-9/circle3phase.png)
