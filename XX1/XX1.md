@@ -1,7 +1,7 @@
 #Final thesis: Phase Transitions, and the Ising model
 ##胡塾绪 2014301020108
 ##Abstract
-This article mainly discusses the phase transitions of ferromagnetism illustrated by the 2D-Ising model by using mean potential theory and Monte Carlo method.The variation of magnetization with temperature and magnetic field is demostrated dominantly.
+This article mainly discusses the phase transitions of ferromagnetism illustrated by the 2D-Ising model by using mean field theory and Monte Carlo method.The variation of magnetization with temperature and magnetic field is demostrated dominantly.
 ##Background
 ###Ferromagnetism
 Ferromagnetism discribes the spontaneous magnetization of some materials,that is, a net magnetic moment in the absence of an external magnetic field. As the temperature increases, thermal motion, or entropy, competes with the ferromagnetic tendency. When the temperature rises beyond a certain point, called the Curie temperature, there is a second-order **phase transition** and the system can no longer maintain a spontaneous magnetization.
@@ -17,3 +17,5 @@ However, if the temperature surpasses the **critical temperature**, the thermal 
 [Here is te code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/8.1.py)
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/Mean%20field.png)
+
+As the picture shows, at low temperature, there is a spontaneous magnetization M>0. However, at high temperatures, the disordering effect of temperature dominates and the system is paramagnetic with M=0. The temperature of phase transition, namely, the critical temperature T_c is 4. However, although the mean theory can illustrate the phase transition of ferromagnetism, it failed to give the correct critical temperature. In addition, at critical temperature, dM/dT is infinite. The singular property predicted by the mean field theory is incorrect either.
