@@ -62,3 +62,11 @@ where s_i is a spin that is located i lattice sites away from s_0, and the angul
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/Correlations.png)
 
 From this picture, we find that at low temperatures, the direction of the spins are highly correlated or paralleled even not neighboring spins. As the temperature increases, the correlation function decreases but the value for neighboring spins does not vanish.
+##Cases with external magnetic field.
+In this section, we include the effect of a magnetic field. The Monte Carlo method can be used as described above, the only difference being that the energy for flipping a spin must include the energy gained or lost to the field. So changing the program, we investigate the magnetization as a function of H with fixed temperatures.
+
+[Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/H1.py)
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/1.0%202.0%202.25.png)
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/3%205.png)
