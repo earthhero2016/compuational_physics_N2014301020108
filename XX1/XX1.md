@@ -12,3 +12,6 @@ However, if the temperature surpasses the **critical temperature**, the thermal 
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/2016-12-28_110633.png)
 ##Mean Field Theory
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/2016-12-28_153747.png)
+
+[Here is te code]()
