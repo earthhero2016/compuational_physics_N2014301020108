@@ -74,3 +74,7 @@ In this section, we include the effect of a magnetic field. The Monte Carlo meth
 At T=1.0 and with H<.0 ,the magnetization is large and negative. We already know that at this temperature the spins will be nearly fully aligned even without the field. Here the field serves only to determine the direction of M and this is why M changes sign abruptly when H is increased through zero. This dicontinuous change of M is an indicator of a *first-order transition*. Above T_c the spontaneous magnetization vanishes, so there can be no discontinuity in M as the field is swept through zero, and hence no first-order phase transition. At a very high temperature, the spins show paramagnetism and the magnetic field has a very limited effect.
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/T%3D100.png)
+
+Next, we study the behavior of magnetization as a function of temperature with external magnetic field.
+
+[Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/H2.py)
