@@ -89,3 +89,6 @@ With a very strong field, the spin will align to according to the direction of t
 ##Conclusion
 Ising model is a simple but effective model to illustrate the ferromanetism. Plus, the mean field theory and the Monte Carlo mothod can both predict a phase transition for Ising model. However, the mean field theory failed to give an exact value of the critical temperature where the transition occurs and the exact velocity of M approaching 0, while the Monte Carlo succeeded doing these. In addition, other quantities such as internal energy and specific heat and the magnetization and magnetic field relation can also be investigated by Monte Carlo method.
 ##Reference
+1.Giodano, N.J., Nakanishi, H. Computational Physics. Tsinghua University Press, December 2007
+
+2.[Wikipedia Ferromagnetism](https://en.wikipedia.org/wiki/Ferromagnetism)
