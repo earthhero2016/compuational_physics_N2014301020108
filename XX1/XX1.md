@@ -46,3 +46,11 @@ Energy can be easily obtained from the energy function while specific heat can b
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/specific%20heat.png)
 
 At low temperatures, with the spins fully aligned, every spin has an interaction energy of -J with each of its four nearest neighbors. The total energy at T=0 should thus be -4NJ/2, where N is the number of spins and the factor 2 is inserted since we have counted each pair of spins twice. On the other hand, at very high temperatures the spins will be randomly oriented, so on average each spin will have two neighbors that are alighed parallel and two are antiparallel. The thermal average of the total energy in this limit will thus be zero. The temperature in our solution is not such high so the energy is far from 0. As we can anticipate, the specific heat C exhibits a large peak in the vicinity of T_c where the energy changes fastest.
+###Correlation function
+When we considered the variation of the energy with temperature, we noted that the behavior of <E> above T_c implies that there must be significant correlations in the relative alignment of neighboring spins since for one spin, two of its neighboring spins are parallel and others are antiparallel with the center spin on average.
+
+Consider a paricular spin, call it s_0, and assume that it points up. Let us examine the alignment of the four neighbors of s_0. Since s_0=+1, the neighbors will have a lower energy if they also point up. Even though the temperature may be above T_c so that the average alignment over the entire system is zero, these four neighbors will still have a higher probability of being aligned parallel to s_0, as opposed to being antiparallel. The degree to which they are parallel will depend on temperature, but it will not be zero even above T_c
+
+The tendency to be correlated can be measured using the correlation function
+
+f(i)=<s_0 s_i>
