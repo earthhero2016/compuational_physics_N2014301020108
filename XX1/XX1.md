@@ -60,3 +60,5 @@ where s_i is a spin that is located i lattice sites away from s_0, and the angul
 [Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/si.py)
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/Correlations.png)
+
+From this picture, we find that at low temperatures, the direction of the spins are highly correlated or paralleled even not neighboring spins. As the temperature increases, the correlation function decreases but the value for neighboring spins does not vanish.
