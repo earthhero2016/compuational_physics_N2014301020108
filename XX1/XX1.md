@@ -26,3 +26,9 @@ We investigate the variation of the magnetization as a function of Monte Carlo s
 [Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/8.2.py)
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/mc%20M_time.png)
+
+This picture shows the ferromagnetism phenomenon. However, there are statistical fluctuations so we need to average the magnetization over time(Monte Carlo step) and investigate its variation with temperature. Our code needs a few changes.
+
+[Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/8.3.py)
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/mc%20M_T.png)
