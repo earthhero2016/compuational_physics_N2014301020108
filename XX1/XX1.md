@@ -20,3 +20,4 @@ However, if the temperature surpasses the **critical temperature**, the thermal 
 
 As the picture shows, at low temperature, there is a spontaneous magnetization M>0. However, at high temperatures, the disordering effect of temperature dominates and the system is paramagnetic with M=0. The temperature of phase transition, namely, the critical temperature T_c is 4. However, although the mean theory can illustrate the phase transition of ferromagnetism, it failed to give the correct critical temperature. In addition, at critical temperature, dM/dT is infinite. The singular property predicted by the mean field theory is incorrect either.
 ##Monte Carlo Method
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/2016-12-28_173902.png)
