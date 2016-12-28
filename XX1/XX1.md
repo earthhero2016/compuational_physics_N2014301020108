@@ -78,3 +78,5 @@ At T=1.0 and with H<.0 ,the magnetization is large and negative. We already know
 Next, we study the behavior of magnetization as a function of temperature with external magnetic field.
 
 [Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/H2.py)
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/T_M%20H%20new.png)
