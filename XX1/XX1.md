@@ -84,3 +84,6 @@ Next, we study the behavior of magnetization as a function of temperature with e
 From this, we find that the appearance of external magnetic field will erase the discontinuity of M. This is because the spins have a tendency to be paralleled with the direction of the magnetic field. So there won't be an abrupt transition at critical temperature. We can speculate that in a strong magnetic field the magnetization will be stable at low temperatures.
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/T_M%20H.png)
+
+With a very strong field, the spin will align to according to the direction of the field, which requires a high temperature to disturb the ordering alignment.
+##Conclusion
