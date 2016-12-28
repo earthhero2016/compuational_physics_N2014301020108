@@ -8,5 +8,5 @@ Ferromagnetism discribes the spontaneous magnetization of some materials,that is
 This phenomenon can be explained by the quantum mechanics. One of the fundamental properties of an electron is that it has a spin, which causes a magnetic dipole moment. If an atom has unpaired electron, it will has a net magnetic moment. Because of the **exchange interaction**,the distributions of the electric charge of twp nearby atoms with unpaired electrons in space are farther apart when the electrons have parallel spins than when they have opposite spins. This reduces the electrostatic energy of the electrons when their spins are parallel compared to their energy when the spins are anti-parallel, so the parallel-spin state is more stable. Therefore, there is a spontaneous magnetization.
 However, if the temperature surpasses the **critical temperature**, the thermal motion, or entropy, competes with the ferromagnetic tendency for dipoles to align and the system can no longer maintain a spontaneous magnetization.
 ###Ising model 
-![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/2016-11-16_201152.png)
+
  
