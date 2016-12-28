@@ -18,7 +18,7 @@ However, if the temperature surpasses the **critical temperature**, the thermal 
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/Mean%20field.png)
 
-As the picture shows, at low temperature, there is a spontaneous magnetization M>0. However, at high temperatures, the disordering effect of temperature dominates and the system is paramagnetic with M=0. The temperature of phase transition, namely, the critical temperature T_c is 4. However, although the mean theory can illustrate the phase transition of ferromagnetism, it failed to give the correct critical temperature. In addition, at critical temperature, dM/dT is infinite. The singular property predicted by the mean field theory is incorrect either.
+As the picture shows, at low temperature, there is a spontaneous magnetization M>0. However, at high temperatures, the disordering effect of temperature dominates and the system is paramagnetic with M=0. The temperature of phase transition, namely, the critical temperature T_c is 4. However, although the mean theory can illustrate the phase transition of ferromagnetism, it failed to give the correct critical temperature. In addition, at critical temperature, the velocity of M going  to zero at T_c is incorrect too.
 ##Monte Carlo Method
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/2016-12-28_173902.png)
 We investigate the variation of the magnetization as a function of Monte Carlo steps for specific temperatures.
@@ -31,4 +31,6 @@ This picture shows the ferromagnetism phenomenon. However, there are statistical
 
 [Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/8.3.py)
 
-![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/mc%20M_T.png)
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/mc%20M_T%201.png)
+
+We find that the critical temperature predicts by the Monte Carlo method is less than the one mean theory did. In addtion, although this picture cannot show the velocity of M approaching to zero, large-scale Monte Carlo simulations yield a more exact value than the mean field theory did.
