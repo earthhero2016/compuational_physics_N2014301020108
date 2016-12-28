@@ -34,3 +34,11 @@ This picture shows the ferromagnetism phenomenon. However, there are statistical
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/mc%20M_T%201.png)
 
 We find that the critical temperature predicts by the Monte Carlo method is less than the one mean theory did. In addtion, although this picture cannot show the velocity of M approaching to zero, large-scale Monte Carlo simulations yield a more exact value than the mean field theory did.
+
+Besides magnetization, we can also investigate other properties of the system.
+###Energy and specific heat.
+Energy can be easily obtained from the energy function while specific heat can be calculated from the relation c_v=dE/dT.
+
+[](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/energy.py)
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/E_T.png)
