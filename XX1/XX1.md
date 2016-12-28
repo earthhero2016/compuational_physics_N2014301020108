@@ -39,6 +39,8 @@ Besides magnetization, we can also investigate other properties of the system.
 ###Energy and specific heat.
 Energy can be easily obtained from the energy function while specific heat can be calculated from the relation c_v=dE/dT.
 
-[](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/energy.py)
+[Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/energy.py)
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/E_T.png)
+
+![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/specific%20heat.png)
