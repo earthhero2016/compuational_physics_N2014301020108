@@ -9,3 +9,4 @@ This phenomenon can be explained by the quantum mechanics. One of the fundamenta
 However, if the temperature surpasses the **critical temperature**, the thermal motion, or entropy, competes with the ferromagnetic tendency for dipoles to align and the system can no longer maintain a spontaneous magnetization.
 ###Ising model 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/2016-11-16_201152.png)
+ 
