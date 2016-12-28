@@ -37,10 +37,12 @@ We find that the critical temperature predicts by the Monte Carlo method is less
 
 Besides magnetization, we can also investigate other properties of the system.
 ###Energy and specific heat.
-Energy can be easily obtained from the energy function while specific heat can be calculated from the relation c_v=dE/dT.
+Energy can be easily obtained from the energy function while specific heat can be calculated from the relation C=dE/dT.
 
 [Here is the code](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/energy.py)
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/E_T.png)
 
 ![](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/specific%20heat.png)
+
+At low temperatures, with the spins fully aligned, every spin has an interaction energy of -J with each of its four nearest neighbors. The total energy at T=0 should thus be -4NJ/2, where N is the number of spins and the factor 2 is inserted since we have counted each pair of spins twice. On the other hand, at very high temperatures the spins will be randomly oriented, so on average each spin will have two neighbors that are alighed parallel and two are antiparallel. The thermal average of the total energy in this limit will thus be zero. The temperature in our solution is not such high so the energy is far from 0. As we can anticipate, the specific heat C exhibits a large peak in the vicinity of T_c where the energy changes fastest.
