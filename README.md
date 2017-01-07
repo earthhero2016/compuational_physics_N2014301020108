@@ -13,5 +13,4 @@
 * [Exercise-11：Chapter 4 problem 4.19 4.20](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-11/Ex-11.md)
 * [Exercise-12：Chapter 5 problem 5.1 5.3 5.5 5.6 5.8](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-12/Ex-12.md)
 * [Exercise-13：Chapter 5 problem 6.9 6.12 6.13](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/Ex-13/Ex-13.md)
-* [Exercise-14：Chapter 6 problem 6.15:The realistic string problem]()
-* [Final Project: 用轨道能量分析Kirkwood Gap的缝宽]() 
+* [Final thesis: Phase Transitions, and the Ising Model](https://github.com/earthhero2016/compuational_physics_N2014301020108/blob/master/XX1/XX1.md) 
